@@ -1,4 +1,6 @@
 **Payload-Propagation-01**
 <br>
-**Updates the source payload using custom policy i.e., the payload which has been sent via listener**
+**Trying to Update the source payload using custom policy since propagateMessageTransformations is not set to true.**
+<br>
+**There will be no impact on source payload which has been sent via listener**
 
